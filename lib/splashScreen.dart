@@ -1,3 +1,4 @@
+import 'package:ar_facefilter_app/cameraWithFiltersScreen.dart';
 import 'package:flutter/material.dart';
 import 'package:splashscreen/splashscreen.dart';
 
@@ -11,6 +12,7 @@ class _MySplashScreenState extends State<MySplashScreen> {
   Widget build(BuildContext context) {
     return SplashScreen(
       seconds: 10,
+      navigateAfterSeconds: CameraWithFiltersScreen(),
       title: Text(
         "AR  Face  Filters  App",
         style: TextStyle(
