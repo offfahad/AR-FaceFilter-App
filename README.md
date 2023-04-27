@@ -38,10 +38,3 @@ To use the AR Face Mask Filter App, follow these steps:
 5. Take a photo or record a video with the filter applied.
 6. Save the filtered image or video to your device's gallery or share it on social media.
 
-## Credits
-
-This app was developed by Fahad using the Flutter framework and the DeepAR API.
-
-## Contact
-
-If you have any questions or feedback about the AR Face Mask Filter App, you can reach me at mughalfahad544@gmail.com.
