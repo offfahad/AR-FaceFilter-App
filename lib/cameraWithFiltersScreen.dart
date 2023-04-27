@@ -32,6 +32,7 @@ class _CameraWithFiltersScreenState extends State<CameraWithFiltersScreen> {
                 print(platformVersion);
                 setState(() {});
               },
+              androidLicenceKey: "a31c8e4d92a9e94716b63a21ce6d38c9d019918f466f91db7854f485e7da193aa27322cd6cbf198f",
               cameraDeepArCallback: (c) async {
                 cameraDeepArController = c;
                 setState(
